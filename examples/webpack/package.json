@@ -36,6 +36,6 @@
     "webpack-dev-server": "5"
   },
   "dependencies": {
-    "@openziti/ziti-sdk-browser": "^0.19.0"
+    "@openziti/ziti-sdk-browser": "^0.20.1"
   }
 }
