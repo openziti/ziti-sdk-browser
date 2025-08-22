@@ -49,7 +49,7 @@
     "eslint": "^9.27.0",
     "eslint-config-prettier": "^6.8.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-prettier": "^5.5.4",
     "prettier": "^1.19.1",
     "rimraf": "^2.6.2",
     "rollup": "^2.79.2",
