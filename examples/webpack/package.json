@@ -33,7 +33,7 @@
     "style-loader": "^4.0.0",
     "webpack": "5",
     "webpack-cli": "5",
-    "webpack-dev-server": "4"
+    "webpack-dev-server": "5"
   },
   "dependencies": {
     "@openziti/ziti-sdk-browser": "^0.3.0"
