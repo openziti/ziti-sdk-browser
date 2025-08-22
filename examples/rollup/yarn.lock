@@ -1420,9 +1420,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@openziti/ziti-browzer-core@npm:^0.65.0":
-  version: 0.65.0
-  resolution: "@openziti/ziti-browzer-core@npm:0.65.0"
+"@openziti/ziti-browzer-core@npm:^0.71.0":
+  version: 0.71.0
+  resolution: "@openziti/ziti-browzer-core@npm:0.71.0"
   dependencies:
     "@openziti/libcrypto-js": "npm:0.24.0"
     "@openziti/ziti-browzer-edge-client": "npm:^0.7.0"
@@ -1455,7 +1455,7 @@ __metadata:
     promise.prototype.finally: "npm:^3.1.8"
     randombytes: "npm:^2.1.0"
     ripemd160: "npm:^2.0.2"
-    sha.js: "npm:^2.4.11"
+    sha.js: "npm:^2.4.12"
     stream: "npm:^0.0.2"
     stream-browserify: "npm:^3.0.0"
     string_decoder: "npm:^1.3.0"
@@ -1463,7 +1463,7 @@ __metadata:
     url: "npm:^0.11.0"
     util: "npm:^0.12.4"
     uuid: "npm:^11.1.0"
-  checksum: 2e96a011721a563cabeffb21cd05198dd88aa73fed2afa464ab467fe65ac0c4d42681e7390ff233048d7a6e4be016e0256111ae6d7277b2c39d086db38318b51
+  checksum: a2e3a2bb4ed506588684b4d03dd5deb1fedaf88e30b27e8a2354bd0a83196dae97e4f33b549e13c066082f797f6eef67a41fe42ac8dc1e67be2c5316a2c1d009
   languageName: node
   linkType: hard
 
@@ -1476,12 +1476,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@openziti/ziti-sdk-browser@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "@openziti/ziti-sdk-browser@npm:0.3.0"
+"@openziti/ziti-sdk-browser@npm:^0.20.1":
+  version: 0.20.1
+  resolution: "@openziti/ziti-sdk-browser@npm:0.20.1"
   dependencies:
-    "@openziti/ziti-browzer-core": "npm:^0.65.0"
-  checksum: 8f96f29fc8ecfe734b0e6ec982ff7402e0d6251c8006208e6e7e8401d051662b12cbb3ccde2aa02e1ba27dc2e8acc261449bb0915ca8ee919adf77e343d51963
+    "@openziti/ziti-browzer-core": "npm:^0.71.0"
+  checksum: 43514dfc08a435137b94aaa8fcf26bbb7efc6ac854ce2640268e1d912f2146d038bcdd417572feecbf48254855ec0ddbd0263e6c77c7c799fa993553f0850d85
   languageName: node
   linkType: hard
 
@@ -4899,7 +4899,7 @@ __metadata:
     "@babel/plugin-transform-runtime": "npm:^7.7.6"
     "@babel/preset-env": "npm:^7.27.2"
     "@babel/runtime": "npm:^7.27.1"
-    "@openziti/ziti-sdk-browser": "npm:^0.3.0"
+    "@openziti/ziti-sdk-browser": "npm:^0.20.1"
     "@rollup/plugin-babel": "npm:^6.0.4"
     "@rollup/plugin-commonjs": "npm:^11.0.0"
     "@rollup/plugin-node-resolve": "npm:^16.0.1"
@@ -5074,7 +5074,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sha.js@npm:^2.4.11":
+"sha.js@npm:^2.4.12":
   version: 2.4.12
   resolution: "sha.js@npm:2.4.12"
   dependencies:
