@@ -1,3 +1,7 @@
+## [0.18.6](https://github.com/openziti/ziti-sdk-browser/compare/v0.18.5...v0.18.6) (2025-08-22)
+
+
+
 ## [0.18.5](https://github.com/openziti/ziti-sdk-browser/compare/v0.18.4...v0.18.5) (2025-08-22)
 
 
