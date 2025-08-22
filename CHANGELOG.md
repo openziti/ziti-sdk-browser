@@ -1,3 +1,12 @@
+# [0.21.0](https://github.com/openziti/ziti-sdk-browser/compare/v0.20.1...v0.21.0) (2025-08-22)
+
+
+### Features
+
+* update examples deps ([#34](https://github.com/openziti/ziti-sdk-browser/issues/34)) ([7d9420e](https://github.com/openziti/ziti-sdk-browser/commit/7d9420e29bbd1ef536ba79f2f64c54889f6de1e0))
+
+
+
 ## [0.20.1](https://github.com/openziti/ziti-sdk-browser/compare/v0.20.0...v0.20.1) (2025-08-22)
 
 
