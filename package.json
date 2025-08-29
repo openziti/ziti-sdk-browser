@@ -1,6 +1,6 @@
 {
   "name": "@openziti/ziti-sdk-browser",
-  "version": "0.21.1",
+  "version": "0.22.0",
   "description": "Ziti SDK for the Browser",
   "repository": "github:openziti/ziti-sdk-browser",
   "main": "lib/index.js",

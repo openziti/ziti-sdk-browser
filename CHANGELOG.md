@@ -1,3 +1,12 @@
+# [0.22.0](https://github.com/openziti/ziti-sdk-browser/compare/v0.21.1...v0.22.0) (2025-08-29)
+
+
+### Features
+
+* detect when body string is actually JSON ([#39](https://github.com/openziti/ziti-sdk-browser/issues/39)) ([fd265d9](https://github.com/openziti/ziti-sdk-browser/commit/fd265d9126b7cd4a21e20fa3a2b40a93eb257293))
+
+
+
 ## [0.21.1](https://github.com/openziti/ziti-sdk-browser/compare/v0.21.0...v0.21.1) (2025-08-22)
 
 
