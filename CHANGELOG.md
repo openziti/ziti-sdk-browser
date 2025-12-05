@@ -1,3 +1,12 @@
+# [0.23.0](https://github.com/openziti/ziti-sdk-browser/compare/v0.22.0...v0.23.0) (2025-12-05)
+
+
+### Features
+
+* use DETERMINISTIC=0 (fix Date.now() debacle) ([#63](https://github.com/openziti/ziti-sdk-browser/issues/63)) ([2f88f29](https://github.com/openziti/ziti-sdk-browser/commit/2f88f2999f80629b7bb0383b7f6b99f23a5ebf2d))
+
+
+
 # [0.22.0](https://github.com/openziti/ziti-sdk-browser/compare/v0.21.1...v0.22.0) (2025-08-29)
 
 
